@@ -1,0 +1,58 @@
+
+body {
+     
+    margin: 0;
+    padding: 0;
+    align-content: center;
+    background: url('./background 3.jpg') no-repeat center center fixed ;
+    background-size: cover;
+    display: flex;
+
+    height: 100vh;
+    overflow-x: hidden;  
+}
+
+
+.screen{
+
+    width:100%
+
+    
+}
+
+.logo {
+   
+  
+margin-top:10px;
+      width:100%
+
+}
+
+.balloon {
+ 
+
+    align-items: flex-end;
+    margin-left:3px;
+
+    
+}
+
+.iframe{
+
+    margin-bottom: 30px;
+
+-moz-border-radius: 12px #FFD700 ;
+-webkit-border-radius: 12px #FFD700;
+    border-radius: 12px;
+    -moz-box-shadow: 4px 4px 14px  #FFD700;
+    -webkit-box-shadow: 4px 4px 14px  #FFD700;
+    box-shadow: 4px 4px 14px  #FFD700;
+
+   
+ 
+    
+}
+
+
+
+
