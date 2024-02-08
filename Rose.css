@@ -1,6 +1,7 @@
 body{
 			
 			.container{
+				background-color: #fadede;
 				width: 800px;
 				height: 400px;
 				position: absolute;
